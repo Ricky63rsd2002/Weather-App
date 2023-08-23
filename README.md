@@ -7,3 +7,7 @@ With our smooth and user-friendly weather app, get real-time weather updates. It
 Enter any city name correctly then you take the output
 
 ![image](https://github.com/Ricky63rsd2002/Weather-App/assets/110671339/20641102-2d57-4d45-a133-2e966340adde)
+
+
+**Demo of the weather app**
+https://ricky63rsd2002.github.io/Weather-App/
